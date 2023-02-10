@@ -38,6 +38,10 @@ body, html {
   width: 80%;
 }
 
+.col-md-4 {
+  margin: auto;
+}
+
 
 .profile-card {
 	background-color: #222222;
